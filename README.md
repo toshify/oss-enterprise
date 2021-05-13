@@ -1,3 +1,37 @@
+# Project Name
+Description: Clear, short, and to the point: What it does.
+
+# TOC
+
+# Installation
+How to get the webapp running
+
+```
+yarn build
+yarn serve
+```
+
+# Usage
+* How to add your own content
+
+# Contributing
+Contribution instructions outline. Could be a separate file.
+Check out the guide for setting guidelines for repository contributors.
+
+# Credits
+Include a section for credits in order to highlight and link to the authors of your project.
+
+# License
+Finally, include a section for the license of your project. For more information on choosing a license, check out GitHub’s licensing guide!
+
+
+
+
+
+
+
+
+
 # Releasing Open Source
 
 You want to release something as open source? Awesome! It's up to you to get it ready, but don't worry, you are never alone. Open a [new issue](issues/new?template=new-release.md) to get started. [Consider these questions as you start to open source the project.](docs/key-questions-for-choosing-projects.md)
